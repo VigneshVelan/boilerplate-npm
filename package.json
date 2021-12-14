@@ -4,6 +4,7 @@
 	"description": "Backend tutorial - Free code camp",
 	"keywords": ["Node js", "Backend development", "Express js", "freecodecamp"],
 	"license": "free",
+	"version": "1.0.4",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
