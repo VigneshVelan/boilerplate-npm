@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vignesh Velan",
-	"description": "Backend tutorial - Free code camp"
+	"description": "Backend tutorial - Free code camp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
